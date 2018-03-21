@@ -1,0 +1,124 @@
+/*login*/
+.body-login{
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+p#txt-mota-DN{
+    text-align: center;
+    font-size: 15px;
+}
+p#txtDN{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.btn-facebook-login{
+    background-color:#344e86;
+    color:  white;
+    height: 40px;
+    width: 200px;
+    font-weight: bold;
+}
+.btn-facebook-login:hover, .btn-google-login:hover{
+    color: white;
+}
+.btn-google-login{
+    background-color:#dd4b39;
+    color:  white;
+    height: 40px;
+    width: 200px;
+    font-weight: bold;
+}
+/*signup*/
+.btn-facebook-signup{
+    background-color:#344e86;
+    color:  white;
+    height: 40px;
+    width: 200px;
+}
+.btn-facebook-signup:hover, .btn-google-signup:hover{
+    color: white;
+}
+.btn-google-signup{
+    background-color:#dd4b39;
+    color:  white;
+    height: 40px;
+    width: 200px;
+}
+.btn-signup-signup{
+    height: 40px;
+    width: 400px;
+    font-weight: bold;
+    text-align: center;
+}
+.body-signup{
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 340px;
+}
+.search-all-job{
+    height: 80px;
+    background-color: #00b9f2;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 15px;
+}
+/* Modal-Login*/
+.modal-lg-login{
+    height: auto;
+}
+p#title-modal{
+    text-align: center;
+    font-size: 25px;
+}
+.fa-facebook{
+    color: blue;
+}
+.fa-google{
+    color: #E94000;
+}
+.btn-facebook, .btn-google{
+    height: 45px;
+    font-weight: bold;
+    font-size: 15px;
+}
+p#login-title{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+.form-login{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.forgot-pass{
+    padding-bottom: 20px;
+    float: right;
+    color: #00b9f2;
+}
+.btn-login{
+    height: 45px;
+    width: 480px;
+    text-align: center;
+}
+p#txt-signup{
+    text-align: center;
+}
+.txt-sign-up{
+    text-align: center;
+    font-weight: bold;
+    color: #00b9f2;
+
+}
+.checkbox-signup{
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+p#txt-submit-signup{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 12px;
+}

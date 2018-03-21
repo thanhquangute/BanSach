@@ -1,0 +1,107 @@
+.footer1 {
+    margin-top: 50px;
+    clear: both;
+    background: #f7f7f7;
+    padding-top: 40px;
+}
+.footer1 .wrap1 {
+    background: none;
+    color: #666666;
+    font-size: 12px;
+}
+.f1b1 {
+    padding-bottom: 25px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.wrap1 {
+    width: 1100px;
+    margin: 0 auto;
+    background: #fff;
+}
+.f1b {
+    float: left;
+    width: 260px;
+}
+.f1bt {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.f1p p {
+    margin-top: 10px;
+}
+.fhot2 {
+    padding-left: 48px;
+    background: url(i3.jpg) no-repeat;
+    height: 83px;
+    margin-top: 20px;
+}
+.fhot2a:first-child {
+    margin-top: 0;
+}
+.fhot2a {
+    margin-top: 14px;
+}
+.fhot2a p {
+    margin-top: 3px;
+}
+.fhot2a b {
+    font-size: 18px;
+    font-weight: bold;
+}
+.fhot2a {
+    margin-top: 14px;
+}
+.fhot2a p {
+    margin-top: 3px;
+}
+.fhot2a b {
+    font-size: 18px;
+}
+.subscriEmail {
+    padding-top: 20px;
+}
+.subscriEmail p {
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.subscriEmailIn {
+    width: 140px;
+    padding: 5px 4px;
+    color: #333;
+    font-size: 13px;
+}
+.subscriEmailSub {
+    padding: 0;
+    border: none;
+    background: #fea201;
+    height: 27px;
+    width: 91px;
+    text-align: center;
+    line-height: 27px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    margin-left: 5px;
+    border-radius: 3px;
+}
+.f1c {
+    float: left;
+    display: inline;
+    margin-left: 20px;
+    width: 180px;
+}
+.f1bt {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.f1p h3 {
+    font-size: inherit;
+    font-weight: 400;
+}
+.f1p a {
+    color: #666;
+}

@@ -1,0 +1,305 @@
+.home-index{}
+a#name-store{
+	color: green;
+	margin-top: 20px;
+	padding-top:20px;
+	font-size: 30px;
+	font-weight: bold;
+}
+#list-home{
+	margin-left: -20px;
+	color: white;
+	font-size: 13px;
+	margin-top: -10px;
+}
+#list-home1{
+	color: white;
+	font-size: 13px;
+	margin-top: -10px;
+}
+#list-home:hover{
+	background:none;color:inherit
+}
+#list-home1:hover{
+	background:none;color:inherit
+}
+.lienhe{
+	float: left;
+	color: orange;
+	padding-top: 57px;
+	margin-left: -160px;
+}
+.i1a p{
+	font-size: 12px;
+	color: #999;
+}
+#i1a-i1a{
+	text-decoration: none;
+}
+.category{
+	padding-top: 15px;
+	border:1px solid #dfdfdf;
+	margin-left:10px;
+}#name-catelogy{
+	font-size: 16px;
+	font-weight: bold;
+}
+/*List caterogy danh muc*/
+#dLabel{
+	color: black;
+	text-decoration: none;	
+}
+#list-danhmuc{
+	margin-top: -10px;
+	margin-bottom: -10px;
+	text-decoration: none;
+}
+.search{
+	border: 3px solid orange;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+#nav-header{
+	color: black;
+}
+#nav-header:hover{
+	background:none;color:inherit
+}
+#myCarousel .nav a small {
+    display:block;
+}
+#myCarousel .nav:hover {
+}
+#myCarousel .nav a {
+    border-radius:0px;
+}
+.caretogy-book{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+}
+.book-new{
+	background-color: #f1f1f1;
+}
+#book-new-href{
+	color: orange;
+	font-size: 16px;
+	font-weight: bold;
+}
+.list1 li {
+    margin-top: 37px;
+    width: 180px;
+    float: left;
+    margin-left: 33px;
+    display: inline;
+}
+.listpro-saleoff {
+    position: absolute;
+    width: 36px;
+    height: 26px;
+    background: url(image/icon-giam-gia.png);
+    color: #fff;
+    float: right;
+    border-radius: 3px;
+    margin-left: 105px;
+    text-align: center;
+    padding-top: 5px;
+}
+.list1img, .list1img img {
+    width: 160px;
+    height: 210px;
+}
+.list1a1 {
+    font-size: 13px;
+    margin-top: 15px;
+    height: 35px;
+    overflow: hidden;
+}
+.price1 {
+    margin-top: 5px;
+    color: #fea201;
+    font-size: 16px;
+    font-weight: 700;
+}
+.priceold {
+    font-size: 13px;
+    color: #999;
+    text-decoration: line-through;
+}
+.phathanh {
+    color: #999;
+    clear: both;
+    margin-top: 10px;
+    font-size: 12px;
+    background: #f3ffdf;
+    padding: 5px 6px;
+}
+.listprocart {
+    margin-top: 0px;
+    background-color: #299ae0;
+    width: 70px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+}
+.buy1 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    display: block;
+    width: 80px;
+    height: 36px;
+    border-radius: 6px;
+    line-height: 36px;
+    background-color: #299ae0;
+    clear: both;
+}
+#item-book{
+	border: 1px solid #f1f1f1;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	width: 180px;
+}
+#name-book-item{
+	text-decoration: none;
+	color: black;
+}
+#name-book-item:hover{
+	color: orange;
+}
+.khuyendoc{
+	margin-top: 50px;
+	margin-right: 100px;
+	margin-left: 100px;margin-bottom: 50px;
+	border: 1px solid violet;
+	background-color: #fffdfa;
+}
+#title-pibook{
+	height: 30px;
+	padding-top: 30px;
+	color: orange;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+.category-sachonthi{
+	border: 3px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.pitab1x {
+    clear: both;
+    margin-top: 40px;
+    border-bottom: 2px solid #fea201;
+}.pitab1x a.act3 {
+    background: #fea201;
+    color: #fff;
+    margin-top: 0;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+}
+.pitab1x a {
+    color: #666;
+    font-size: 14px;
+    font-weight: 700;
+    float: left;
+    margin-left: 2px;
+    margin-top: 8px;
+    height: 42px;
+    text-align: center;
+    background: #fff;
+    padding: 0 20px;
+    line-height: 42px;
+    border-radius: 6px 6px 0 0;
+}
+.qttab {
+    float: left;
+    width: 140px;
+    margin-left: 2px;
+    background: #fea201;
+    height: 516px;
+    font-size: 13px;
+}
+.qttab a {
+    display: block;
+    margin: 0 20px;
+    border-top: 1px solid #ffb83d;
+    min-height: 38px;
+    line-height: 38px;
+    color: #fff;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+.qttab h3 {
+    font-size: inherit;
+    font-weight: 400;
+}
+.qthot {
+    float: left;
+    display: inline;
+    margin-left: 19px;
+    padding-right: 10px;
+    width: 301px;
+}
+.qthota {
+    color: #333333;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 20px;
+    display: block;
+}
+.pricec2 {
+    padding-top: 18px;
+}
+.pilist2 {
+    width: 630px;
+    float: left;
+    list-style: none;
+}
+.pilist2 li {
+    width: 209px;
+    height: 257px;
+    float: left;
+    border-left: 1px solid #f0f0f0;
+    border-bottom: 1px solid #f0f0f0;
+    text-align: center;
+}
+.pilist2 li img {
+    max-width: 190px;
+    max-height: 121px;
+    margin-left: 10px;
+    padding-top: 21px;
+}
+#item-book-1{
+	margin-right: -15px;
+}
+.list2img, .list2img img {
+    width: 120px;
+    height: 170px;
+}
+.list2 li {
+    margin-top: 37px;
+    width: 180px;
+    float: left;
+    margin-left: 13px;
+    display: inline;
+}
